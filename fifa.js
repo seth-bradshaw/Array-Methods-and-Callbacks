@@ -18721,4 +18721,4 @@ export const fifaData = [
     "Home Team Initials": "BRA",
     "Away Team Initials": "NED"
   },
-]
+];
